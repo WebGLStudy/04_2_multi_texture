@@ -1,6 +1,8 @@
 # マルチテクスチャ
 複数のテクスチャ画像を読み込んでみます
 
+https://webglstudy.github.io/04_2_multi_texture/
+
 ![結果画像](results.png)
 
 # 課題
